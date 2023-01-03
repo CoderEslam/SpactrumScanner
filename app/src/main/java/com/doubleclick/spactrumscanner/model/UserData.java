@@ -13,7 +13,7 @@ public class UserData {
     @NonNull
     @Override
     public String toString() {
-        return "OJ{" +
+        return "UserData{" +
                 "user=" + user +
                 ", token='" + token + '\'' +
                 '}';

@@ -1,5 +1,7 @@
 package com.doubleclick.spactrumscanner.model;
 
+import androidx.annotation.NonNull;
+
 /**
  * Created By Eslam Ghazy on 1/3/2023
  */
@@ -37,5 +39,15 @@ public class SendData {
 
     public void setNotes(String notes) {
         this.notes = notes;
+    }
+
+    @NonNull
+    @Override
+    public String toString() {
+        return "SendData{" +
+                "pc_id='" + pc_id + '\'' +
+                ", user_id='" + user_id + '\'' +
+                ", notes='" + notes + '\'' +
+                '}';
     }
 }

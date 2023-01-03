@@ -18,7 +18,7 @@ public interface API {
 
     @Headers("Content-Type: application/json")
     @POST("login")
-    Call<UserData> LoginUser(@Body Login user);
+    Call<UserData> LoginUser(@Body Login login);
 
     @Headers("Content-Type: application/json")
     @POST("device")

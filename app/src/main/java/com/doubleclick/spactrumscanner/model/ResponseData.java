@@ -1,5 +1,7 @@
 package com.doubleclick.spactrumscanner.model;
 
+import androidx.annotation.NonNull;
+
 /**
  * Created By Eslam Ghazy on 1/3/2023
  */
@@ -29,6 +31,7 @@ public class ResponseData {
         this.message = message;
     }
 
+    @NonNull
     @Override
     public String toString() {
         return "ResponseData{" +

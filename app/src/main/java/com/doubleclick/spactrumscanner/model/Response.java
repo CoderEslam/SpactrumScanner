@@ -1,5 +1,7 @@
 package com.doubleclick.spactrumscanner.model;
 
+import androidx.annotation.NonNull;
+
 /**
  * Created By Eslam Ghazy on 1/3/2023
  */
@@ -47,5 +49,16 @@ public class Response {
 
     public void setId(String id) {
         this.id = id;
+    }
+
+    @NonNull
+    @Override
+    public String toString() {
+        return "Response{" +
+                "pc_id='" + pc_id + '\'' +
+                ", user_id='" + user_id + '\'' +
+                ", notes='" + notes + '\'' +
+                ", id='" + id + '\'' +
+                '}';
     }
 }
