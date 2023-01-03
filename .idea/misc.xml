@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/SpactrumScanner/app/src/main/res/drawable/bg_btn.xml" value="0.197" />
         <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/SpactrumScanner/app/src/main/res/drawable/bg_et.xml" value="0.1665" />
-        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/SpactrumScanner/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/SpactrumScanner/app/src/main/res/layout/activity_scanner.xml" value="0.18" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/SpactrumScanner/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/SpactrumScanner/app/src/main/res/layout/activity_scanner.xml" value="0.2" />
         <entry key="..\:/Users/eslam/AndroidStudioProjects/Eslam/Kotlin/SpactrumScanner/app/src/main/res/xml/network_security_config.xml" value="0.1859375" />
       </map>
     </option>

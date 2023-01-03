@@ -44,6 +44,7 @@
         app:layout_constraintTop_toBottomOf="@+id/qr_code" />
 
     <EditText
+        android:textColor="@color/black"
         android:id="@+id/note"
         android:layout_width="0dp"
         android:layout_height="0dp"
