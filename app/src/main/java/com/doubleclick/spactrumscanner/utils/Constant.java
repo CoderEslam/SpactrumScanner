@@ -5,6 +5,6 @@ package com.doubleclick.spactrumscanner.utils;
  */
 public class Constant {
 
-    public static final String BASE_URL = "http://portal.spectrum-bpo.com/api/";
+    public static final String BASE_URL = "http://portal.spectrum-bpo.com/qr_code/api/";
 
 }
